@@ -1,3 +1,8 @@
+##Sugestãodemelhoria
+- Proposta: melhorar a documentação do projeto.
+- Contributo: acrescentar informação útil para os utilizadores.
+- Autor: Tomás Ferreira
+
 # Projeto-1
 Projeto de iniciação ao Git e ao GitHub
 
